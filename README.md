@@ -32,7 +32,7 @@
 
 ## 📬 Contact Me
 - **Email:** [murshidts786@gmail.com](mailto:murshidts786@gmail.com)  
-- **LinkedIn:** [Muhammed Murshid T.S](https://www.linkedin.com/in/muhammed-murshid-t-s-807401375)  
+- **LinkedIn:** [Muhammed Murshid T.S](linkedin.com/in/muhammedmurshid)  
 
 ---
 
