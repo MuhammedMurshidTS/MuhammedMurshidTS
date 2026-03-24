@@ -112,5 +112,5 @@
 
 ## 📫 Contact
 
-- 📧 yourmail@gmail.com
-- 💼 https://linkedin.com/in/yourprofile
+- 📧 murshidts786@gmail.com
+- 💼 www.linkedin.com/in/muhammedmurshidts
