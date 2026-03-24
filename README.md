@@ -20,14 +20,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedMurshidTS&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedMurshidTS&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedMurshidTS&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammedMurshidTS&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## Tools & Frameworks
 
