@@ -101,7 +101,13 @@
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="js" width="50" height="50">
   </a>
 </p>
+## 🏆 Achievements
 
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-Active-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HackTheBox-Learner-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CyberSecurity-Student-red?style=for-the-badge" />
+</p>
 ##  Projects & Contributions  
 
 -  **CTF Challenges** - Forensics, Web Exploitation, Cryptography
