@@ -101,11 +101,12 @@
   </a>
 </p>
 
-## 🧪 Projects
+##  Projects & Contributions  
 
-- 🔍 Web Security Lab (Coming Soon)
-- 🌐 OWASP Practice (Coming Soon)
-- 🔐 Password Cracking Lab (Coming Soon)
+-  **CTF Challenges** - Forensics, Web Exploitation, Cryptography
+-  **Machines** - Custom vulnerable Machines for pentesting
+-  **Security Tools** - Scripts & utilities for automating recon and exploitation  
+-  **Open-Source Contributions** - Sharing knowledge and resources for the security community  
 
 ---
 
