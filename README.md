@@ -76,14 +76,30 @@
   </a>
 </p>
 
-## 💻 Languages
+## **Programming/Scripting**
 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+<p align="left">
+ <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1MjYwNTUsIm5iZiI6MTc2NTUyNTc1NSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjEyVDA3NDkxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1ODAzOGY4ZmMyMDljMTU2NDFmMzE2YTJjNjA0ZDU5ZDAyMmUyYzZiOGJjM2M4YWUxOWI3ZWUyNzQ5NmM0NTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CZo3J81GZrDIC59sM2-jFOTqDvuWiG_BUTFZLC-KO0k" width="500" height="250" alt="Logo"><br>
+   <a href="#" target="_blank">
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="50" height="50">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="bash" width="60" height="60">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="50" height="50">
+  </a>
+   <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="html" width="50" height="50">
+  </a>
 
----
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="html" width="50" height="50">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="js" width="50" height="50">
+  </a>
+</p>
 
 ## 🧪 Projects
 
