@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=MOHAMMED%20MURSHID%20T.S&fontSize=35&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&size=26&duration=3000&pause=1000&lines=root@murshid:~$+whoami;_" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammed Murshid T.S</h1>
 <h3 align="center">Cyber Security Analyst | Penetration Tester | CTF Player</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&lines=Cyber+Security+Enthusiast;Ethical+Hacker;CTF+Player;Future+Pentester" />
-</p>
 
 ---
 
